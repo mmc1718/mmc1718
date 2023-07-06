@@ -3,6 +3,11 @@
 <!--
 **mmc1718/mmc1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Mary's GitHub stats](https://github-readme-stats-git-master-mmc1718.vercel.app/api?username=mmc1718&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats-git-master-mmc1718.vercel.app/api/top-langs/?username=mmc1718&hide=Ruby&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +21,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats-git-master-mmc1718.vercel.app/api/top-langs/?username=mmc1718&hide=Ruby&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
